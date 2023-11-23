@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runners.RunCucumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-23T18:35:38" hostname="NELSON-DELL" time="0.138">
+  <properties/>
+  <testcase name="runScenario[0](&quot;Iniciar sesión con credenciales válidas&quot;, &quot;Casos de Prueba FE para Sauce Demo&quot;)" classname="runners.RunCucumberTest" time="0.138"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
